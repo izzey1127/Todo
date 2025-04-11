@@ -9,12 +9,6 @@ A simple command-line Python application to manage your daily tasks.
 - Remove completed tasks
 - Easy and interactive command-line interface
 
-## ▶️ How to Run
-
-1. Clone the repository or download the file.
-2. Run the script using Python 3:
-   ```bash
-   python todo_list.py
 ## 📋 Sample Interaction
 ```
 Simple To-Do List Manager
