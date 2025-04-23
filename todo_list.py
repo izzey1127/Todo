@@ -1,4 +1,4 @@
- Todo List - Manage a simple task list
+# Todo List - Manage a simple task list
 
 tasks = []
 
