@@ -1,4 +1,4 @@
-# ✅ Todo List - Manage a Simple Task List
+# Todo List - Manage a Simple Task List
 
 A simple command-line Python application to manage your daily tasks.
 
