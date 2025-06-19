@@ -5,7 +5,7 @@ A simple command-line Python application to manage your daily tasks.
 
 ## 🛠 Features
 
-- Add tasks to your list
+- Add tasks to your lists
 - View all tasks
 - Remove completed tasks
 - Easy and interactive command-line interface
